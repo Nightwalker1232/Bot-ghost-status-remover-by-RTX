@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching server"];
+const statusMessages = ["Spreading gossip faster than your WiFi. ✨","tell me a topic to chat🌟💬"];
 
 
 let currentIndex = 0;
